@@ -14,4 +14,9 @@ En informática, la búsqueda lineal o la búsqueda secuencial es un método par
 
 1. Hacer un programa en Java que almacene 10 numeros pseudo-aleatorios en un arreglo y busque un numero introducido por 
    el usuario y muestre las veces que se encuentra el numero.
+   
+### Codigo fuente
 
+ - [Usando for](https://github.com/UrielMendozaG/Sequential-Search/blob/master/Sequential%20Search/src/com/SequentialSearch/app/SequentialSearch.java)
+
+- [Usando while](https://github.com/UrielMendozaG/Sequential-Search/blob/master/Sequential%20Search/src/com/SequentialSearch/app/SequentialSearchWhile.java)
